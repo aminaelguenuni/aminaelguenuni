@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amina El Guenuni
+# About me
 
 👋 Hi, I’m **Amina El Guenuni**, a **Computer Science freshman** at Hood College passionate about learning and building projects in tech. I’m currently exploring **web development** and working on full-stack **MERN** projects, with plans to dive into other frameworks and technologies.
 
