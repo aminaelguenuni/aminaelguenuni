@@ -1,19 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**aminaelguenuni/aminaelguenuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m **Amina El Guenuni**, a **Computer Science freshman** at Hood College passionate about learning and building projects in tech. I’m currently exploring **web development** and working on full-stack **MERN** projects, with plans to dive into other frameworks and technologies.
 
-Here are some ideas to get you started:
+💡 **What I’m Up To:**
+- Building projects in tech to solve real-world problems and improve my coding skills.
+- Participating in hackathons like **Codex** and **MLH Hacks for Hackers** to solve real-world problems and learn collaboratively.
+- Gaining hands-on experience through internships:
+  - Website development and **SEO optimization** at the Moroccan **National Bureau Erasmus+**.
+  - Assisting with **web design** and **communication** during my fall semester internship at the **World Council on Intercultural and Global Competence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **What Drives Me:**
+I’m passionate about learning new technologies and using them to create impactful solutions. Whether it’s through coding, hackathons, or internships, I’m always eager to grow and contribute.
+ 
 <h1 align="center">Hi 👋, I'm Amina El Guenuni</h1>
 <h3 align="center">I'm currently a Freshman computer science student at Hood College. I passionate about using tech to create impactful projects.</h3>
 
