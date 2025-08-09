@@ -14,29 +14,11 @@ Passionate about leveraging technology to solve real-world problems and create m
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Languages:** Python, JavaScript, Java, SQL  
-- **Web Development:** React.js, Node.js, Flask  
-- **Machine Learning:** TensorFlow/Keras, CNNs, API integration  
-- **Other:** Git/GitHub, REST APIs, Agile principles
-
----
-
-## 🌟 Featured Project
-**Pneumonia Detection Web App**  
-- Trained a custom CNN with **TensorFlow/Keras** on chest X-ray images.  
-- Built a **Flask API** for real-time inference.  
-- Developed a **React.js frontend** to provide an educational tool demonstrating AI’s potential in healthcare.  
-
----
-
 ## 💡 What Drives Me
 I’m curious, impact-driven, and always eager to collaborate with mission-focused teams. Whether it’s coding, mentoring peers as a **CodePath Peer Mentor**, or exploring new tech stacks, I thrive in environments that challenge me to grow.
 
 ---
 
-📫 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/amina0289/) | [Portfolio](#) | [Email](mailto:ae12@hood.edu)  
 ✨ Always open to collaborations, feedback, or coding discussions!
 
 
