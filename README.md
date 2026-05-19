@@ -6,8 +6,8 @@ Passionate about leveraging technology to solve real-world problems and create m
 ---
 
 ## 🚀 What I’m Working On
- -**Develop for Good** — Joining as an Engineer this summer, collaborating with a team to support a nonprofit client.
- -**Break Through Tech AI Program** — Selected as a Fellow, building hands-on skills in machine learning and AI.
+  - **Develop for Good** — Joining as an Engineer this summer, collaborating with a team to support a nonprofit client.
+  - **Break Through Tech AI Program** — Selected as a Fellow, building hands-on skills in machine learning and AI.
 
 ## Internships & Experience:
   - Developed websites and implemented **SEO optimization and Wordpress** at the Moroccan **National Bureau Erasmus+**.
