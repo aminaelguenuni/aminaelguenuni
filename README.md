@@ -17,9 +17,8 @@ This project speeds up Dijkstra's shortest-path algorithm for real-world road ne
  
 ### 📌 Other Projects
  
-- **[ASLmodel](https://github.com/aminaelguenuni/ASLmodel)** — Trained a CNN (Keras/TensorFlow) on 87,000+ labeled images to classify ASL alphabet signs, aiming to bridge communication between hearing and deaf communities. Built as part of the AI4ALL Ignite accelerator. `Python` `TensorFlow` `CNN`
-- **[Event_Management](https://github.com/aminaelguenuni/Event_Management)** — Full relational database + web app for managing event registration, organizers, categories, and sponsorships across 8 linked tables. `PHP` `SQL`
-- **[Github_CLI](https://github.com/aminaelguenuni/Github_CLI)** — A command-line tool for interacting with GitHub. `Python`
+- **[ASLmodel](https://github.com/aminaelguenuni/ASLmodel)**: Trained a CNN (Keras/TensorFlow) on 87,000+ labeled images to classify ASL alphabet signs, aiming to bridge communication between hearing and deaf communities. Built as part of the AI4ALL Ignite accelerator. `Python` `TensorFlow` `CNN`
+- **[Event_Management](https://github.com/aminaelguenuni/Event_Management)**: Full relational database + web app for managing event registration, organizers, categories, and sponsorships across 8 linked tables. `PHP` `SQL`
 ---
  
 ### 💼 Internships & Experience
