@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Amina
  
-I'm a Computer Science student at Hood College who builds things at the intersection of **algorithms, accessibility, and social impact** — from optimizing pathfinding on real US road networks to training a CNN to translate ASL. I'm currently sharpening my ML skills as a **Break Through Tech AI Fellow** and heading into summer as an **Engineer with Develop for Good**, building software for a nonprofit client.
+I'm a junior Computer Science student at Hood College with a strong foundation in algorithms, software engineering, and machine learning, and I'm currently branching into cybersecurity. I'm a Break Through Tech AI Fellow, and this past summer I worked as a Student Engineer with Develop for Good.
+
  
 ---
  
