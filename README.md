@@ -23,10 +23,10 @@ This project speeds up Dijkstra's shortest-path algorithm for real-world road ne
  
 ### 💼 Internships & Experience
 
-- **AI/ML Fellow, Break Through Tech AI** (Cornell): Selected from 3,000+ applicants for a year-long fellowship in data science, AI, and ML; currently completing the Fall AI studio.
-- **Student Engineer, Develop for Good**: Built software for a nonprofit client as part of a project team.
-- Developed websites and implemented SEO/WordPress solutions at the **Moroccan National Bureau Erasmus+**
-- Managed digital content, website operations, and newsletter creation for the **World Council on Intercultural and Global Competence**
+- **AI/ML Fellow, Break Through Tech AI** (Cornell) — Selected from 3,000+ applicants for a year-long fellowship in data science, AI, and ML; currently completing the ML Foundations curriculum.
+- **Student Engineer, Develop for Good** — Built software for a nonprofit client as part of a project team.
+- **Web Development & Communications Intern, Moroccan National Bureau Erasmus+** — Developed websites and implemented SEO/WordPress solutions.
+- **Website Development Intern, World Council on Intercultural and Global Competence** — Managed digital content, website operations, and newsletter creation.
 
 ### 💡 What Drives Me
  
