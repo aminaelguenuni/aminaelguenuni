@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Amina
- 
+
+📧 elguenuniamina@gmail.com
+
 I'm a junior Computer Science student at Hood College with a strong foundation in algorithms, software engineering, and machine learning, and I'm currently branching into cybersecurity. I'm a Break Through Tech AI Fellow, and this past summer I worked as a Student Engineer with Develop for Good.
 
  
