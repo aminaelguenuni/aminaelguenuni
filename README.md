@@ -7,9 +7,9 @@ I'm a junior Computer Science student at Hood College with a strong foundation i
  
 ### 🚀 Featured Project
  
-**[Map-Routing](https://github.com/aminaelguenuni/Map-Routing)** — Optimized Dijkstra's Shortest Path for Geographic Maps
+**[Map-Routing](https://github.com/aminaelguenuni/Map-Routing)** : Optimized Dijkstra's Shortest Path for Geographic Maps
  
-Combined **early termination**, **incremental state reset**, and an **A\* heuristic** to speed up shortest-path queries on a graph of the continental US (87,575 intersections, 121,961 roads). Cut a 20+ minute baseline down to under 2 minutes across 50,000 queries — up to a **22x speedup**.
+This project speeds up Dijkstra's shortest-path algorithm for real-world road networks by combining **early termination**, **incremental state reset**, and an **A\* heuristic**. Running it on a graph of the continental US (87,575 intersections and 121,961 roads), brought query time down from over 20 minutes to under 2 minutes across 50,000 queries, a **22x speedup**.
  
 `Java` · `Dijkstra's Algorithm` · `A* Search` · `Graph Theory`
  
