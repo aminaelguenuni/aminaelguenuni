@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Amina
 
-📧 elguenuniamina@gmail.com
-
 I'm a junior Computer Science student at Hood College with a strong foundation in algorithms, software engineering, and machine learning, and I'm currently branching into cybersecurity. I'm a Break Through Tech AI Fellow, and this past summer I worked as a Student Engineer with Develop for Good.
 
  
@@ -33,6 +31,10 @@ This project speeds up Dijkstra's shortest-path algorithm for real-world road ne
 ### 💡 What Drives Me
 
 I'm curious, driven, and always chasing the next challenge, whether that's a new tech stack to learn or a hard problem to solve. 
+
+### 📫 Contact
+
+📧 elguenuniamina@gmail.com
 
 ✨ Always open to collaborations, feedback, or coding discussions!
  
