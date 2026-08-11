@@ -34,7 +34,7 @@ I'm curious, driven, and always chasing the next challenge, whether that's a new
 
 ### 📫 Contact
 
+✨ Always open to collaborations, feedback, or coding discussions!
 📧 elguenuniamina@gmail.com
 
-✨ Always open to collaborations, feedback, or coding discussions!
  
